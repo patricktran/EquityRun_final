@@ -1,4 +1,4 @@
-## THIS IS FOR UX-MEN TEAM
+## Base React App Setup
 
 
 
