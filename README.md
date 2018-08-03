@@ -1,4 +1,4 @@
-## Base React App Setup
+## Base React App Sample
 
 
 
